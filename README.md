@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 🔧 Technologies & Tools 🧑‍💻
 
-React Webpack Ruby Ruby on Rails github actions Google Cloud Platform TypeScript Postgresql SQlite Heroku redux GraphQL Sass Styled Components git NestJs Vim npm html5 Brave browser Prettier MongoDB Nodejs Jest
 
 
+
+![image](https://github.com/user-attachments/assets/461204d5-3e2b-40ef-b698-07533e314457)
