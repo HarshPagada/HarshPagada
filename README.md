@@ -6,7 +6,7 @@
 
 🧑‍💻 Technologies & Tools 
 
-Html, Css, Js, React, Redux, Vite, Bootstrap, Tailwind-Css, Node-Js, Python, Express, MongoDB, MySql, Cloud-Computing, Wordpress
+Html, Css, Js, React, Redux, Vite, Bootstrap, Tailwind-Css, Node-Js, Python, Express, MongoDB, MySql, Cloud-Computing, Wordpress, Wix.
 
 
 
